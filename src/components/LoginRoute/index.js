@@ -77,6 +77,7 @@ class LoginRoute extends Component {
                 type="text"
                 value={username}
                 onChange={this.onChangeUsername}
+                placeholder="Demo: rahul"
               />
             </div>
             <div className="passwordInputContainer">
@@ -86,6 +87,7 @@ class LoginRoute extends Component {
                 type="password"
                 value={password}
                 onChange={this.onChangePassword}
+                placeholder="Demo: rahul@2021"
               />
             </div>
             {showError && <p className="errorMsg">{errorMsg}</p>}
