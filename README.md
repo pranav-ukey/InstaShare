@@ -8,7 +8,7 @@ https://pranavinsta.ccbp.tech
 
 ## 💻 GitHub Repository
 
-https://github.com/pranav-ukey/InstaShare_Instagram_Clone
+https://github.com/pranav-ukey/InstaShare
 
 ## 🔑 Demo Credentials
 
